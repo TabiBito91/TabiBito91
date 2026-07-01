@@ -6,7 +6,7 @@ I build a mix of things — automation tools, AI-powered apps, and the occasiona
 
 ---
 
-### ⚖️ Legal Tech Projects
+### Featured Projects
 
 - [**LexPulse**](https://github.com/TabiBito91/LexPulse) — TypeScript project tracking legal/regulatory signals
 - [**contract-pulse**](https://github.com/TabiBito91/contract-pulse) — TypeScript tool for monitoring contract activity
@@ -14,9 +14,17 @@ I build a mix of things — automation tools, AI-powered apps, and the occasiona
 
 ---
 
-### 🗣️ Language & AI Projects
+### 🗣️ Language & AI 
 
 - [**kotoba-ai**](https://github.com/TabiBito91/kotoba-ai) — AI tutor that helps users practice written Japanese, Chinese, and Korean
+
+---
+
+### ⚖️ Legal & AI
+
+- [**LexPulse**](https://github.com/TabiBito91/LexPulse) — TypeScript project tracking legal/regulatory signals
+- [**contract-pulse**](https://github.com/TabiBito91/contract-pulse) — TypeScript tool for monitoring contract activity
+- [**contract-redliner**](https://github.com/TabiBito91/contract-redliner) — AI-powered contract redlining app, built with FastAPI + React/TypeScript
 
 ---
 
